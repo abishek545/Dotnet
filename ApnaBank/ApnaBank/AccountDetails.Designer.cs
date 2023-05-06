@@ -1,6 +1,6 @@
 ﻿namespace ApnaBank
 {
-    partial class AccountDetails
+    partial class AccountDetails1
     {
         /// <summary>
         /// Required designer variable.
